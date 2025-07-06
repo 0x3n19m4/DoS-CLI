@@ -1,4 +1,4 @@
-This repository was created for carrying out DOS attacks in order to check for security.
+This repository was created for carrying out DoS attacks in order to check for security.
 
 **Tested on**:
 
